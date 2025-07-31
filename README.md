@@ -29,16 +29,13 @@
 
 ## 📫 Contact Me:
 
-- [LinkedIn](https://www.linkedin.com/in/beamlak-fekadu)  
-- 📧 Email: beamlakfekadu@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/beamlak-fekadu-979033322/)  
+- 📧 Email: beamlakfekadu562@gmail.com
 
 ---
 
 ## 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeamlakF&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeamlakF&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=BeamlakF&theme=radical)](https://git.io/streak-stats)
-[![Trophies](https://github-profile-trophy.vercel.app/?username=BeamlakF&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
