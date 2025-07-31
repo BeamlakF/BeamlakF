@@ -1,7 +1,7 @@
 # Nice seeing you here, I'm Beamlak 👋
 
 ## 🍯🐝 About Me:
-- 🧑‍💻 I am a software engineer at Addis Ababa University.
+- 💛 I am a software engineer at Addis Ababa University.
 - 🤝 I’m always holding out my arms to collaborate on creative and innovative projects.
 - 📬 Feel free to reach out if you have any questions or want to tackle the next problem together.
 - 🎨 I am also a designer, both graphics and UI.
