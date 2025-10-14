@@ -6,7 +6,11 @@
 - 📬 Feel free to reach out if you have any questions or want to tackle the next problem together.
 - 🎨 I am also a designer, both graphics and UI.
 
-
+  ## 🐝 Currently working on:
+  - Smart Library Book management API(using Django, GraphQL, post-gre, JWT)
+  - 5k Book store in team (working on the front-end while learning React)
+  - Understanding DSA ( I want to so tackle, I am out for blood)
+  - Job platform back-end ( I so want it to cache with Redis and increase its performance)
 ---
 
 ## 💻 Tech Stack:
