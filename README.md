@@ -11,6 +11,7 @@
   - 5k Book store in team (working on the front-end while learning React)
   - Understanding DSA ( I am out for blood, no backing out this time)
   - Job platform back-end ( I so want it to cache with Redis and increase its performance)
+  - TaskFLOW -- team task manager ( Revise (feels like I am learning it all over again) Django)
 ---
 
 ## 💻 Tech Stack:
