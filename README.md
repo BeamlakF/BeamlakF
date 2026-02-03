@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=BeamlakF)
 # Nice seeing you here, I'm Beamlak 👋
 
 ## 🍯🐝 About Me:
